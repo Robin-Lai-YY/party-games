@@ -268,24 +268,20 @@ export const UNDERCOVER_WORD_PAIRS: UndercoverSymmetricWordRow[] = [
  * 风格偏脑洞/成人向玩笑，与常规题库区分。
  */
 export const UNDERCOVER_HIDDEN_WORD_PAIRS: UndercoverSymmetricWordRow[] = [
-  { wordA: "挑逗", wordB: "勾引" },
-  { wordA: "呻吟", wordB: "喘息" },
   { wordA: "制服诱惑", wordB: "角色扮演" },
 
-  { wordA: "荷尔蒙", wordB: "多巴胺" },
+
 
   { wordA: "占有欲", wordB: "控制欲" },
   { wordA: "杜蕾斯", wordB: "杰士邦" },
-  { wordA: "情趣内衣", wordB: "比基尼" },
-  { wordA: "伟哥", wordB: "六味地黄丸" },
-  { wordA: "钢管舞", wordB: "脱衣舞" },
+  
   { wordA: "FWB", wordB: "ONS" },
 
   { wordA: "安全套", wordB: "避孕药" },
-  { wordA: "卫生棉", wordB: "护垫" },
+  
 
-  { wordA: "处男", wordB: "宅男" },
-  { wordA: "胸罩", wordB: "吊带" },
+  
+  
 
   { wordA: "帐篷", wordB: "雨伞" },
   { wordA: "诱惑", wordB: "调情" },
@@ -296,18 +292,16 @@ export const UNDERCOVER_HIDDEN_WORD_PAIRS: UndercoverSymmetricWordRow[] = [
   { wordA: "震动棒", wordB: "电动牙刷" },
   { wordA: "润滑剂", wordB: "沐浴露" },
 
-  { wordA: "手铐", wordB: "手镯" },
-  { wordA: "皮鞭", wordB: "皮带" },
 
-  { wordA: "挑逗", wordB: "勾引" },
-  { wordA: "种草莓", wordB: "拔罐" },
+  
+  
   { wordA: "避孕套", wordB: "指套" },
-  { wordA: "裸睡", wordB: "裸奔" },
-  { wordA: "断片", wordB: "宿醉" },
+  
+  
   { wordA: "杜蕾斯", wordB: "冈本" },
-  { wordA: "调情", wordB: "偷情" },
+  
   { wordA: "制服诱惑", wordB: "角色扮演" },
-  { wordA: "前男友", wordB: "前夫" },
+  
 
   { wordA: "高潮", wordB: "射精" },
   { wordA: "跳蛋", wordB: "振动棒" },
@@ -318,21 +312,21 @@ export const UNDERCOVER_HIDDEN_WORD_PAIRS: UndercoverSymmetricWordRow[] = [
   { wordA: "G点", wordB: "阴蒂" },
   
   { wordA: "口爆", wordB: "颜射" },
-  { wordA: "情趣内衣", wordB: "丁字裤" },
+  
   { wordA: "双管齐下", wordB: "三人行" },
-  { wordA: "假阳具", wordB: "飞机杯" },
+  
   { wordA: "深喉", wordB: "口交" },
   { wordA: "捆绑", wordB: "滴蜡" },
   { wordA: "潮吹", wordB: "失禁" },
-  { wordA: "老司机", wordB: "推油" },
+  
   { wordA: "波推", wordB: "打飞机" },
   { wordA: "自慰", wordB: "手淫" },
   { wordA: "精液", wordB: "爱液" },
   { wordA: "野战", wordB: "车震" },
   { wordA: "内射", wordB: "口爆" },
   { wordA: "狗爬式", wordB: "老汉推车" },
-  { wordA: "情趣用品店", wordB: "成人展" },
-  { wordA: "春药", wordB: "催情水" },
+  
+  
   { wordA: "乳交", wordB: "足交" },
   { wordA: "黑丝", wordB: "渔网袜" },
   { wordA: "一夜情", wordB: "约炮" },
@@ -344,7 +338,7 @@ export const UNDERCOVER_HIDDEN_WORD_PAIRS: UndercoverSymmetricWordRow[] = [
   { wordA: "震动", wordB: "抽插" },
   { wordA: "包皮", wordB: "阴茎" },
   { wordA: "扩肛", wordB: "润滑" },
-  { wordA: "绿帽子", wordB: "苦主" },
+  { wordA: "绿帽子", wordB: "NTR" },
   { wordA: "前列腺", wordB: "阴蒂" },
   { wordA: "换妻", wordB: "乱交" },
   { wordA: "处女膜", wordB: "初恋" },
